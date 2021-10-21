@@ -6,3 +6,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Alberto-2867B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-kamiya-6a50b886/)
+
+[Perfil na Alura](https://cursos.alura.com.br/user/amkamiya)
+
